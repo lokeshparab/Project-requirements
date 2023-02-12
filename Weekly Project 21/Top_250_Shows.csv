@@ -1,0 +1,251 @@
+id,name,year,certificate,runtime(minutes),genre,ratings
+tt3581920,The Last of Us,2023– ,UA 16+,50.0,"Action, Adventure, Drama",9.2
+tt14269590,Poker Face,,,58.0,"Crime, Drama, Mystery",8.2
+tt13406094,The White Lotus,2021–2023,18,60.0,"Comedy, Drama",7.9
+tt13802576,Lockwood & Co,2023– ,UA 13+,44.0,"Action, Adventure, Drama",7.5
+tt4236770,Yellowstone,2018–2023,18,60.0,"Drama, Western",8.7
+tt15677150,Shrinking,2023– ,A,33.0,"Comedy, Drama",7.8
+tt13443470,Wednesday,2022– ,UA 13+,45.0,"Comedy, Crime, Fantasy",8.2
+tt15591076,That '90s Show,2023– ,UA 13+,30.0,"Comedy, Drama, Romance",6.4
+tt14153790,Velma,,,,"Animation, Adventure, Comedy",1.4
+tt1520211,The Walking Dead,2010–2022,18+,44.0,"Drama, Horror, Thriller",8.1
+tt0944947,Game of Thrones,2011–2019,A,57.0,"Action, Adventure, Drama",9.2
+tt10813940,Ginny & Georgia,2021– ,16,,"Comedy, Drama",7.5
+tt3428912,Happy Valley,2014–2023,Not Rated,58.0,"Crime, Drama, Thriller",8.5
+tt18335752,1923,,,60.0,"Drama, Western",8.6
+tt0903747,Breaking Bad,2008–2013,18,49.0,"Crime, Drama, Thriller",9.5
+tt0452046,Criminal Minds,,,42.0,"Crime, Drama, Mystery",8.1
+tt7456722,Hunters,2020–2023,18,60.0,"Crime, Drama, Mystery",7.2
+tt16358384,Tulsa King,,,40.0,"Crime, Drama",8.1
+tt7440726,Your Honor,2020–2023,18,57.0,"Crime, Drama, Thriller",7.6
+tt11247158,The Legend of Vox Machina,2022– ,A,30.0,"Animation, Action, Adventure",8.4
+tt11712058,Mayor of Kingstown,,,,"Crime, Drama, Thriller",8.2
+tt10293938,Outer Banks,2020– ,18,50.0,"Action, Crime, Drama",7.6
+tt3032476,Better Call Saul,2015–2022,16+,46.0,"Crime, Drama",8.9
+tt7587890,The Rookie,2018– ,UA 16+,43.0,"Action, Crime, Drama",8.0
+tt0165598,That '70s Show,1998–2006,18,22.0,"Comedy, Drama, Romance",8.1
+tt14531842,Extraordinary,2023– ,A,25.0,"Action, Adventure, Comedy",7.9
+tt15487922,Wolf Pack,,,53.0,"Drama, Fantasy, Horror",6.0
+tt7949212,Accused,,,44.0,"Crime, Drama",7.3
+tt1190634,The Boys,2019– ,18+,60.0,"Action, Comedy, Crime",8.7
+tt0413573,Grey's Anatomy,2005– ,15+,41.0,"Drama, Romance",7.6
+tt0386676,The Office,2005–2013,U,22.0,Comedy,9.0
+tt11311302,Vikings: Valhalla,2022– ,18,51.0,"Action, Adventure, Drama",7.3
+tt4574334,Stranger Things,2016–2024,15,51.0,"Drama, Fantasy, Horror",8.7
+tt8111088,The Mandalorian,2019– ,U,40.0,"Action, Adventure, Fantasy",8.7
+tt7660850,Succession,2018– ,15+,60.0,Drama,8.8
+tt4565380,Fauda,2015– ,18+,60.0,"Action, Drama, Thriller",8.3
+tt16867040,Cunk on Earth,,,29.0,"Documentary, Comedy",8.3
+tt11198330,House of the Dragon,2022– ,A,,"Action, Adventure, Drama",8.5
+tt0141842,The Sopranos,1999–2007,15+,55.0,"Crime, Drama",9.2
+tt7817340,New Amsterdam,2018–2023,Not Rated,43.0,Drama,8.0
+tt5057054,Jack Ryan,2018– ,16+,60.0,"Action, Drama, Thriller",8.0
+tt15428778,Anne Rice's Mayfair Witches,,,60.0,"Drama, Fantasy, Horror",6.4
+tt0203259,Law & Order: Special Victims Unit,1999– ,UA 16+,60.0,"Crime, Drama, Mystery",8.1
+tt1567432,Teen Wolf,2011–2017,18,41.0,"Action, Drama, Fantasy",7.7
+tt0460681,Supernatural,2005–2020,16+,44.0,"Drama, Fantasy, Horror",8.4
+tt11280740,Severance,2022– ,A,55.0,"Drama, Mystery, Sci-Fi",8.7
+tt8806524,Star Trek: Picard,2020–2023,18,46.0,"Action, Adventure, Drama",7.3
+tt12580982,National Treasure: Edge of History,2022– ,UA 13+,50.0,"Action, Adventure, Mystery",5.5
+tt9253284,Andor,2022– ,UA 13+,40.0,"Action, Adventure, Drama",8.4
+tt0364845,NCIS: Naval Criminal Investigative Service,2003– ,16,60.0,"Action, Crime, Drama",7.8
+tt2306299,Vikings,2013–2020,A,44.0,"Action, Adventure, Drama",8.5
+tt2442560,Peaky Blinders,2013–2022,A,60.0,"Crime, Drama",8.8
+tt10986410,Ted Lasso,2020– ,A,30.0,"Comedy, Drama, Sport",8.8
+tt4786824,The Crown,2016–2023,16+,58.0,"Biography, Drama, History",8.6
+tt0108778,Friends,1994–2004,13+,22.0,"Comedy, Romance",8.9
+tt7335184,You,2018– ,16+,45.0,"Crime, Drama, Romance",7.7
+tt0472954,It's Always Sunny in Philadelphia,2005– ,UA,22.0,Comedy,8.8
+tt14500082,How I Met Your Father,2022– ,UA 16+,24.0,"Comedy, Drama",5.5
+tt0898266,The Big Bang Theory,2007–2019,U,22.0,"Comedy, Romance",8.2
+tt17371078,The Ark,,,50.0,"Drama, Sci-Fi",3.7
+tt2741602,The Blacklist,2013–2023,16+,43.0,"Crime, Drama, Mystery",8.0
+tt16098700,Fire Country,,,44.0,Drama,7.2
+tt15422758,The Watchful Eye,2023– ,UA 16+,44.0,"Drama, Mystery, Thriller",6.0
+tt3502248,Bosch,2014–2021,18,51.0,"Crime, Drama",8.5
+tt8068860,Servant,2019–2023,A,30.0,"Drama, Horror, Mystery",7.5
+tt10278918,Willow,2022– ,UA 13+,,"Action, Adventure, Drama",5.6
+tt0074016,Laverne & Shirley,,,30.0,"Comedy, Family",7.0
+tt17543592,Will Trent,2023– ,UA 16+,44.0,"Crime, Drama",7.6
+tt13798316,Night Court,,,22.0,Comedy,5.8
+tt2356777,True Detective,2014–2019,A,55.0,"Crime, Drama, Mystery",8.9
+tt1442437,Modern Family,2009–2020,12+,22.0,"Comedy, Drama, Romance",8.5
+tt0285331,24,2001–2010,U,44.0,"Action, Crime, Drama",8.4
+tt0086770,Night Court,,,30.0,Comedy,7.7
+tt1693592,Vera,,,90.0,"Crime, Drama, Mystery",8.1
+tt6226232,Young Sheldon,2017– ,U,30.0,Comedy,7.6
+tt2560140,Shingeki no Kyojin,2013– ,13,24.0,"Animation, Action, Adventure",9.0
+tt5607976,His Dark Materials,2019–2022,12+,60.0,"Adventure, Drama, Family",7.8
+tt0460627,Bones,2005–2017,15+,40.0,"Comedy, Crime, Drama",7.8
+tt8772296,Euphoria,2019– ,A,55.0,Drama,8.4
+tt0436992,Doctor Who,2005– ,U,45.0,"Adventure, Drama, Sci-Fi",8.6
+tt10795658,Alice in Borderland,2020– ,18,50.0,"Action, Drama, Mystery",7.7
+tt14452776,The Bear,2022– ,18,30.0,"Comedy, Drama",8.4
+tt1632701,Suits,2011–2019,13+,44.0,"Comedy, Drama",8.5
+tt5875444,Slow Horses,2022– ,A,,"Drama, Thriller",7.9
+tt0098904,Seinfeld,1989–1998,13,22.0,Comedy,8.9
+tt0306414,The Wire,2002–2008,15+,59.0,"Crime, Drama, Thriller",9.3
+tt1888075,Death in Paradise,,,60.0,"Comedy, Crime, Drama",7.8
+tt16030542,The Recruit,2022– ,UA 16+,55.0,"Action, Adventure, Crime",7.5
+tt0118401,Midsomer Murders,1997– ,16,90.0,"Crime, Drama, Mystery",7.9
+tt2861424,Rick and Morty,2013– ,16+,23.0,"Animation, Adventure, Comedy",9.1
+tt1844624,American Horror Story,2011– ,A,60.0,"Drama, Horror, Sci-Fi",8.0
+tt2085059,Black Mirror,2011–2019,A,60.0,"Drama, Mystery, Sci-Fi",8.8
+tt1586680,Shameless,2011–2021,18+,46.0,"Comedy, Drama",8.6
+tt0057729,The Addams Family,,,30.0,"Comedy, Family, Horror",8.0
+tt12708542,Star Wars: The Bad Batch,2021– ,PG,,"Animation, Action, Adventure",7.8
+tt7631058,The Lord of the Rings: The Rings of Power,2022– ,UA 16+,,"Action, Adventure, Drama",6.9
+tt1266020,Parks and Recreation,2009–2015,13,22.0,Comedy,8.6
+tt10323338,9-1-1: Lone Star,2020– ,12+,43.0,"Action, Drama, Thriller",7.1
+tt17543896,Dear Edward,2023– ,A,50.0,Drama,7.4
+tt6470478,The Good Doctor,2017– ,15+,41.0,Drama,8.1
+tt3581920,The Last of Us,2023– ,UA 16+,50.0,"Action, Adventure, Drama",9.2
+tt14269590,Poker Face,,,58.0,"Crime, Drama, Mystery",8.2
+tt13406094,The White Lotus,2021–2023,18,60.0,"Comedy, Drama",7.9
+tt13802576,Lockwood & Co,2023– ,UA 13+,44.0,"Action, Adventure, Drama",7.5
+tt4236770,Yellowstone,2018–2023,18,60.0,"Drama, Western",8.7
+tt15677150,Shrinking,2023– ,A,33.0,"Comedy, Drama",7.8
+tt13443470,Wednesday,2022– ,UA 13+,45.0,"Comedy, Crime, Fantasy",8.2
+tt15591076,That '90s Show,2023– ,UA 13+,30.0,"Comedy, Drama, Romance",6.4
+tt14153790,Velma,,,,"Animation, Adventure, Comedy",1.4
+tt1520211,The Walking Dead,2010–2022,18+,44.0,"Drama, Horror, Thriller",8.1
+tt0944947,Game of Thrones,2011–2019,A,57.0,"Action, Adventure, Drama",9.2
+tt10813940,Ginny & Georgia,2021– ,16,,"Comedy, Drama",7.5
+tt3428912,Happy Valley,2014–2023,Not Rated,58.0,"Crime, Drama, Thriller",8.5
+tt18335752,1923,,,60.0,"Drama, Western",8.6
+tt0903747,Breaking Bad,2008–2013,18,49.0,"Crime, Drama, Thriller",9.5
+tt0452046,Criminal Minds,,,42.0,"Crime, Drama, Mystery",8.1
+tt7456722,Hunters,2020–2023,18,60.0,"Crime, Drama, Mystery",7.2
+tt16358384,Tulsa King,,,40.0,"Crime, Drama",8.1
+tt7440726,Your Honor,2020–2023,18,57.0,"Crime, Drama, Thriller",7.6
+tt11247158,The Legend of Vox Machina,2022– ,A,30.0,"Animation, Action, Adventure",8.4
+tt11712058,Mayor of Kingstown,,,,"Crime, Drama, Thriller",8.2
+tt10293938,Outer Banks,2020– ,18,50.0,"Action, Crime, Drama",7.6
+tt3032476,Better Call Saul,2015–2022,16+,46.0,"Crime, Drama",8.9
+tt7587890,The Rookie,2018– ,UA 16+,43.0,"Action, Crime, Drama",8.0
+tt0165598,That '70s Show,1998–2006,18,22.0,"Comedy, Drama, Romance",8.1
+tt14531842,Extraordinary,2023– ,A,25.0,"Action, Adventure, Comedy",7.9
+tt15487922,Wolf Pack,,,53.0,"Drama, Fantasy, Horror",6.0
+tt7949212,Accused,,,44.0,"Crime, Drama",7.3
+tt1190634,The Boys,2019– ,18+,60.0,"Action, Comedy, Crime",8.7
+tt0413573,Grey's Anatomy,2005– ,15+,41.0,"Drama, Romance",7.6
+tt0386676,The Office,2005–2013,U,22.0,Comedy,9.0
+tt11311302,Vikings: Valhalla,2022– ,18,51.0,"Action, Adventure, Drama",7.3
+tt4574334,Stranger Things,2016–2024,15,51.0,"Drama, Fantasy, Horror",8.7
+tt8111088,The Mandalorian,2019– ,U,40.0,"Action, Adventure, Fantasy",8.7
+tt7660850,Succession,2018– ,15+,60.0,Drama,8.8
+tt4565380,Fauda,2015– ,18+,60.0,"Action, Drama, Thriller",8.3
+tt16867040,Cunk on Earth,,,29.0,"Documentary, Comedy",8.3
+tt11198330,House of the Dragon,2022– ,A,,"Action, Adventure, Drama",8.5
+tt0141842,The Sopranos,1999–2007,15+,55.0,"Crime, Drama",9.2
+tt7817340,New Amsterdam,2018–2023,Not Rated,43.0,Drama,8.0
+tt5057054,Jack Ryan,2018– ,16+,60.0,"Action, Drama, Thriller",8.0
+tt15428778,Anne Rice's Mayfair Witches,,,60.0,"Drama, Fantasy, Horror",6.4
+tt0203259,Law & Order: Special Victims Unit,1999– ,UA 16+,60.0,"Crime, Drama, Mystery",8.1
+tt1567432,Teen Wolf,2011–2017,18,41.0,"Action, Drama, Fantasy",7.7
+tt0460681,Supernatural,2005–2020,16+,44.0,"Drama, Fantasy, Horror",8.4
+tt11280740,Severance,2022– ,A,55.0,"Drama, Mystery, Sci-Fi",8.7
+tt8806524,Star Trek: Picard,2020–2023,18,46.0,"Action, Adventure, Drama",7.3
+tt12580982,National Treasure: Edge of History,2022– ,UA 13+,50.0,"Action, Adventure, Mystery",5.5
+tt9253284,Andor,2022– ,UA 13+,40.0,"Action, Adventure, Drama",8.4
+tt0364845,NCIS: Naval Criminal Investigative Service,2003– ,16,60.0,"Action, Crime, Drama",7.8
+tt2306299,Vikings,2013–2020,A,44.0,"Action, Adventure, Drama",8.5
+tt2442560,Peaky Blinders,2013–2022,A,60.0,"Crime, Drama",8.8
+tt10986410,Ted Lasso,2020– ,A,30.0,"Comedy, Drama, Sport",8.8
+tt4786824,The Crown,2016–2023,16+,58.0,"Biography, Drama, History",8.6
+tt0108778,Friends,1994–2004,13+,22.0,"Comedy, Romance",8.9
+tt7335184,You,2018– ,16+,45.0,"Crime, Drama, Romance",7.7
+tt0472954,It's Always Sunny in Philadelphia,2005– ,UA,22.0,Comedy,8.8
+tt14500082,How I Met Your Father,2022– ,UA 16+,24.0,"Comedy, Drama",5.5
+tt0898266,The Big Bang Theory,2007–2019,U,22.0,"Comedy, Romance",8.2
+tt17371078,The Ark,,,50.0,"Drama, Sci-Fi",3.7
+tt2741602,The Blacklist,2013–2023,16+,43.0,"Crime, Drama, Mystery",8.0
+tt16098700,Fire Country,,,44.0,Drama,7.2
+tt15422758,The Watchful Eye,2023– ,UA 16+,44.0,"Drama, Mystery, Thriller",6.0
+tt3502248,Bosch,2014–2021,18,51.0,"Crime, Drama",8.5
+tt8068860,Servant,2019–2023,A,30.0,"Drama, Horror, Mystery",7.5
+tt10278918,Willow,2022– ,UA 13+,,"Action, Adventure, Drama",5.6
+tt0074016,Laverne & Shirley,,,30.0,"Comedy, Family",7.0
+tt17543592,Will Trent,2023– ,UA 16+,44.0,"Crime, Drama",7.6
+tt13798316,Night Court,,,22.0,Comedy,5.8
+tt2356777,True Detective,2014–2019,A,55.0,"Crime, Drama, Mystery",8.9
+tt1442437,Modern Family,2009–2020,12+,22.0,"Comedy, Drama, Romance",8.5
+tt0285331,24,2001–2010,U,44.0,"Action, Crime, Drama",8.4
+tt0086770,Night Court,,,30.0,Comedy,7.7
+tt1693592,Vera,,,90.0,"Crime, Drama, Mystery",8.1
+tt6226232,Young Sheldon,2017– ,U,30.0,Comedy,7.6
+tt2560140,Shingeki no Kyojin,2013– ,13,24.0,"Animation, Action, Adventure",9.0
+tt5607976,His Dark Materials,2019–2022,12+,60.0,"Adventure, Drama, Family",7.8
+tt0460627,Bones,2005–2017,15+,40.0,"Comedy, Crime, Drama",7.8
+tt8772296,Euphoria,2019– ,A,55.0,Drama,8.4
+tt0436992,Doctor Who,2005– ,U,45.0,"Adventure, Drama, Sci-Fi",8.6
+tt10795658,Alice in Borderland,2020– ,18,50.0,"Action, Drama, Mystery",7.7
+tt14452776,The Bear,2022– ,18,30.0,"Comedy, Drama",8.4
+tt1632701,Suits,2011–2019,13+,44.0,"Comedy, Drama",8.5
+tt5875444,Slow Horses,2022– ,A,,"Drama, Thriller",7.9
+tt0098904,Seinfeld,1989–1998,13,22.0,Comedy,8.9
+tt0306414,The Wire,2002–2008,15+,59.0,"Crime, Drama, Thriller",9.3
+tt1888075,Death in Paradise,,,60.0,"Comedy, Crime, Drama",7.8
+tt16030542,The Recruit,2022– ,UA 16+,55.0,"Action, Adventure, Crime",7.5
+tt0118401,Midsomer Murders,1997– ,16,90.0,"Crime, Drama, Mystery",7.9
+tt2861424,Rick and Morty,2013– ,16+,23.0,"Animation, Adventure, Comedy",9.1
+tt1844624,American Horror Story,2011– ,A,60.0,"Drama, Horror, Sci-Fi",8.0
+tt2085059,Black Mirror,2011–2019,A,60.0,"Drama, Mystery, Sci-Fi",8.8
+tt1586680,Shameless,2011–2021,18+,46.0,"Comedy, Drama",8.6
+tt0057729,The Addams Family,,,30.0,"Comedy, Family, Horror",8.0
+tt12708542,Star Wars: The Bad Batch,2021– ,PG,,"Animation, Action, Adventure",7.8
+tt7631058,The Lord of the Rings: The Rings of Power,2022– ,UA 16+,,"Action, Adventure, Drama",6.9
+tt1266020,Parks and Recreation,2009–2015,13,22.0,Comedy,8.6
+tt10323338,9-1-1: Lone Star,2020– ,12+,43.0,"Action, Drama, Thriller",7.1
+tt17543896,Dear Edward,2023– ,A,50.0,Drama,7.4
+tt6470478,The Good Doctor,2017– ,15+,41.0,Drama,8.1
+tt3581920,The Last of Us,2023– ,UA 16+,50.0,"Action, Adventure, Drama",9.2
+tt14269590,Poker Face,,,58.0,"Crime, Drama, Mystery",8.2
+tt13406094,The White Lotus,2021–2023,18,60.0,"Comedy, Drama",7.9
+tt13802576,Lockwood & Co,2023– ,UA 13+,44.0,"Action, Adventure, Drama",7.5
+tt4236770,Yellowstone,2018–2023,18,60.0,"Drama, Western",8.7
+tt15677150,Shrinking,2023– ,A,33.0,"Comedy, Drama",7.8
+tt13443470,Wednesday,2022– ,UA 13+,45.0,"Comedy, Crime, Fantasy",8.2
+tt15591076,That '90s Show,2023– ,UA 13+,30.0,"Comedy, Drama, Romance",6.4
+tt14153790,Velma,,,,"Animation, Adventure, Comedy",1.4
+tt1520211,The Walking Dead,2010–2022,18+,44.0,"Drama, Horror, Thriller",8.1
+tt0944947,Game of Thrones,2011–2019,A,57.0,"Action, Adventure, Drama",9.2
+tt10813940,Ginny & Georgia,2021– ,16,,"Comedy, Drama",7.5
+tt3428912,Happy Valley,2014–2023,Not Rated,58.0,"Crime, Drama, Thriller",8.5
+tt18335752,1923,,,60.0,"Drama, Western",8.6
+tt0903747,Breaking Bad,2008–2013,18,49.0,"Crime, Drama, Thriller",9.5
+tt0452046,Criminal Minds,,,42.0,"Crime, Drama, Mystery",8.1
+tt7456722,Hunters,2020–2023,18,60.0,"Crime, Drama, Mystery",7.2
+tt16358384,Tulsa King,,,40.0,"Crime, Drama",8.1
+tt7440726,Your Honor,2020–2023,18,57.0,"Crime, Drama, Thriller",7.6
+tt11247158,The Legend of Vox Machina,2022– ,A,30.0,"Animation, Action, Adventure",8.4
+tt11712058,Mayor of Kingstown,,,,"Crime, Drama, Thriller",8.2
+tt10293938,Outer Banks,2020– ,18,50.0,"Action, Crime, Drama",7.6
+tt3032476,Better Call Saul,2015–2022,16+,46.0,"Crime, Drama",8.9
+tt7587890,The Rookie,2018– ,UA 16+,43.0,"Action, Crime, Drama",8.0
+tt0165598,That '70s Show,1998–2006,18,22.0,"Comedy, Drama, Romance",8.1
+tt14531842,Extraordinary,2023– ,A,25.0,"Action, Adventure, Comedy",7.9
+tt15487922,Wolf Pack,,,53.0,"Drama, Fantasy, Horror",6.0
+tt7949212,Accused,,,44.0,"Crime, Drama",7.3
+tt1190634,The Boys,2019– ,18+,60.0,"Action, Comedy, Crime",8.7
+tt0413573,Grey's Anatomy,2005– ,15+,41.0,"Drama, Romance",7.6
+tt0386676,The Office,2005–2013,U,22.0,Comedy,9.0
+tt11311302,Vikings: Valhalla,2022– ,18,51.0,"Action, Adventure, Drama",7.3
+tt4574334,Stranger Things,2016–2024,15,51.0,"Drama, Fantasy, Horror",8.7
+tt8111088,The Mandalorian,2019– ,U,40.0,"Action, Adventure, Fantasy",8.7
+tt7660850,Succession,2018– ,15+,60.0,Drama,8.8
+tt4565380,Fauda,2015– ,18+,60.0,"Action, Drama, Thriller",8.3
+tt16867040,Cunk on Earth,,,29.0,"Documentary, Comedy",8.3
+tt11198330,House of the Dragon,2022– ,A,,"Action, Adventure, Drama",8.5
+tt0141842,The Sopranos,1999–2007,15+,55.0,"Crime, Drama",9.2
+tt7817340,New Amsterdam,2018–2023,Not Rated,43.0,Drama,8.0
+tt5057054,Jack Ryan,2018– ,16+,60.0,"Action, Drama, Thriller",8.0
+tt15428778,Anne Rice's Mayfair Witches,,,60.0,"Drama, Fantasy, Horror",6.4
+tt0203259,Law & Order: Special Victims Unit,1999– ,UA 16+,60.0,"Crime, Drama, Mystery",8.1
+tt1567432,Teen Wolf,2011–2017,18,41.0,"Action, Drama, Fantasy",7.7
+tt0460681,Supernatural,2005–2020,16+,44.0,"Drama, Fantasy, Horror",8.4
+tt11280740,Severance,2022– ,A,55.0,"Drama, Mystery, Sci-Fi",8.7
+tt8806524,Star Trek: Picard,2020–2023,18,46.0,"Action, Adventure, Drama",7.3
+tt12580982,National Treasure: Edge of History,2022– ,UA 13+,50.0,"Action, Adventure, Mystery",5.5
+tt9253284,Andor,2022– ,UA 13+,40.0,"Action, Adventure, Drama",8.4
+tt0364845,NCIS: Naval Criminal Investigative Service,2003– ,16,60.0,"Action, Crime, Drama",7.8
